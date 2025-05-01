@@ -1,2 +1,3 @@
 first file
+this line added by scrumaster
 this line added by member. "AAAA"
