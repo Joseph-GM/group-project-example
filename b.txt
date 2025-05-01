@@ -1,2 +1,3 @@
 this is featureB
 Joseph made update to modify featureB
+This line's been added by scrum master
